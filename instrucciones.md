@@ -8,3 +8,7 @@
 4. Creamos la carpeta **src** y dentro el archivo **index.js**
 5. Empaquetamos con webpack:
     ``./node_modules/.bin/webpack src/index.js``
+6. Ejecutamos nuestra aplicación:
+    ``node dist/main.js``
+7. Para verla con html, necesitamos instalar un pluggin:
+    ``npm install html-webpack-plugin --save-dev``

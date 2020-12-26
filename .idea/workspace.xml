@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="021c0da6-ba8b-4bb7-9912-95a561d82a3f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/instrucciones.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +36,6 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="insta-picture" />
       <option name="VM_PARAMETERS" />
@@ -109,7 +93,8 @@
       <option name="presentableId" value="Default" />
       <updated>1608980445771</updated>
       <workItem from="1608980447381" duration="630000" />
-      <workItem from="1608981131169" duration="1589000" />
+      <workItem from="1608981131169" duration="1790000" />
+      <workItem from="1608983005108" duration="933000" />
     </task>
     <servers />
   </component>
