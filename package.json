@@ -1,0 +1,24 @@
+{
+  "name": "insta-picture",
+  "version": "1.0.0",
+  "description": "Curso React Avanzado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscomanuel/insta-picture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscomanuel/insta-picture/issues"
+  },
+  "homepage": "https://github.com/franciscomanuel/insta-picture#readme",
+  "devDependencies": {
+    "webpack": "^5.11.0",
+    "webpack-cli": "^4.3.0"
+  }
+}
