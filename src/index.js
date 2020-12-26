@@ -1,1 +1,1 @@
-console.log('Empezamos');
+console.log('Mi proyecto con react avanzado');

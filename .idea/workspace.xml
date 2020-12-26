@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="021c0da6-ba8b-4bb7-9912-95a561d82a3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instrucciones.md" beforeDir="false" afterPath="$PROJECT_DIR$/instrucciones.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +35,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa.pub" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+    <property name="ts.external.directory.path" value="C:\Users\usuario\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\202.6948.69\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="insta-picture" />
       <option name="VM_PARAMETERS" />
@@ -85,6 +106,10 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\usuario\AppData\Roaming\Subversion</configuration>
+    <option name="sshPrivateKeyPath" value="C:\Users\usuario\.ssh\id_rsa.pub" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="021c0da6-ba8b-4bb7-9912-95a561d82a3f" name="Default Changelist" comment="" />
@@ -94,7 +119,7 @@
       <updated>1608980445771</updated>
       <workItem from="1608980447381" duration="630000" />
       <workItem from="1608981131169" duration="1790000" />
-      <workItem from="1608983005108" duration="933000" />
+      <workItem from="1608983005108" duration="3283000" />
     </task>
     <servers />
   </component>
@@ -106,9 +131,13 @@
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="2066" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608981540839" />
-    <state x="2106" y="261" key="FileChooserDialogImpl" timestamp="1608981001848">
+    <state x="2106" y="261" key="FileChooserDialogImpl" timestamp="1608984389910">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2106" y="261" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608981001848" />
+    <state x="2106" y="261" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608984389910" />
+    <state x="1806" y="94" key="SettingsEditor" timestamp="1608984412191">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1806" y="94" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1608984412191" />
   </component>
 </project>

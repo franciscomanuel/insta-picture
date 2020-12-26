@@ -12,3 +12,5 @@
     ``node dist/main.js``
 7. Para verla con html, necesitamos instalar un pluggin:
     ``npm install html-webpack-plugin --save-dev``
+8. Instalamos el servidor de desarrollo de webpack:
+    ``npm install webpack-dev-server --save-dev``
